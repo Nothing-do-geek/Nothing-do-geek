@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nothing-do-geek
-- 👀 I’m interested in languages, IT, Kaprizzka
+- 👀 I’m interested in languages, videogames, social media, IT, Kaprizzka
 - 🌱 I’m currently learning Python, Ruby, HTML, ChucK, C#.
 
 <!---
