@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Nothing-do-geek
 - 👀 I’m interested in languages, videogames, IT, Kaprizzka， cartoons/anime.
 - 🌱 I’m currently learning Python.
-- Currently using Wikia,Python,HTML/CSS.
+- 👀 Currently using Wikia,Python,HTML/CSS.
 - 👀 Learned Ruby, HTML/CSS, ChucK, C#, C++.
+- 👀 I did programing all privately, so I am posting all codes here now.
 
 <!---
 Nothing-do-geek/Nothing-do-geek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
