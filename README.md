@@ -2,7 +2,7 @@
 - 👀 I’m interested in languages, videogames, IT, Kaprizzka， cartoons/anime.
 - 🌱 I’m currently learning Python.
 - 👀 Currently using Wikia,Python,HTML/CSS.
-- 👀 Learned Ruby, HTML/CSS, ChucK, C#, C++, Pascal.
+- 👀 Learned Ruby, HTML/CSS, ChucK, C#, C++, Pascal, JavaScript
 - 👀 I did programing all privately, so I am posting all codes here now.
 
 <!---
