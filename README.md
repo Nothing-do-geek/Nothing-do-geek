@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nothing-do-geek
 - 👀 I’m interested in languages, videogames, IT, Kaprizzka，cartoons/anime.
-- 🎌 I can speak Russian, English, Mandarin (Simplified).
+- 🎌 I can speak Russian, English, Mandarin (Simplified), Greek.
 - 🌱 I’m currently learning Python.
 - 📖 Currently using Wikia,Python,HTML/CSS.
 - 💻 Learned Ruby, HTML/CSS, ChucK, C#, C++, Pascal, JavaScript
