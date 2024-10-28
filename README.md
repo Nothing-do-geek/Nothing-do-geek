@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nothing-do-geek
 - 👀 I’m interested in languages, videogames, IT, Kaprizzka，cartoons/anime.
 - 🎌 I can speak Russian, English, Mandarin (Simplified), Greek.
-- 🌱 I’m currently learning Python and LaTex
+- 🌱 I’m currently learning Python, Maple and LaTex
 - 📖 Currently using Wikia,Python,HTML/CSS.
 - 💻 Learned Ruby, HTML/CSS, ChucK, C#, C++, Pascal, JavaScript
 - 🔓 I did programing all privately, so I am posting all codes here now.
