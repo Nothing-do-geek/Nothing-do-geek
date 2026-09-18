@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nothing-do-geek
-- 👀 I’m interested in languages, videogames, IT, Kaprizzka，cartoons/anime.
+- 👀 I’m interested in languages, videogames, Kaprizzka，cartoons/anime.
 - 🎌 I can speak Russian, English, Mandarin (Simplified), Greek.
 - 🌱 I’m currently learning Python, Maple and LaTex
 - 📖 Currently using Python,HTML/CSS.
