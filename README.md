@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nothing-do-geek - a creative user, who only translates the languages on websites.
+- 👋 Hi, I’m @Nothing-do-geek - a creative user, who only translates on the websites. I've been learning programming since primary school, though my main focus is only on international languages and media. 
 - 👀 I’m interested in languages, videogames, Kaprizzka，cartoons/anime.
 - 🎌 I can speak Russian, English, Mandarin (Simplified), Greek.
 - 🌱 I’m currently learning Python
 - 📖 Currently using Python,HTML/CSS.
-- 💻 Learned Ruby, HTML/CSS, ChucK, C#, C++, Pascal, JavaScript, Wikia, SQL, Maple and LaTex
+- 💻 Learned Scratch, Ruby, HTML/CSS, ChucK, C#, C++, Pascal, JavaScript, Wikia, SQL, Maple and LaTex
 - 🔓 I did programing all privately, so I am posting all codes here now.
 - 🌀 Khan Academy account: https://www.khanacademy.org/computer-programming/snowball-butterfly/4883094940188672
